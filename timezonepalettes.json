@@ -1,0 +1,52 @@
+{
+    "palettes": [
+        {
+            "name": "Default",
+            "description": "Original timezone colors",
+            "colors": {
+                "PST": "#b93d14",
+                "MST": "#a65419",
+                "CST": "#e25f08",
+                "EST": "#fe7501",
+                "AKST": "#71362b",
+                "HST": "#7e2b17"
+            }
+        },
+        {
+            "name": "Ocean",
+            "description": "Cool blue tones",
+            "colors": {
+                "PST": "#1a5f7a",
+                "MST": "#2d7d98",
+                "CST": "#3c9dc1",
+                "EST": "#45b6e5",
+                "AKST": "#14475c",
+                "HST": "#0d2f3d"
+            }
+        },
+        {
+            "name": "Forest",
+            "description": "Natural green tones",
+            "colors": {
+                "PST": "#2d5a27",
+                "MST": "#3e7b37",
+                "CST": "#4f9c45",
+                "EST": "#60bd54",
+                "AKST": "#1c391a",
+                "HST": "#0f1f0e"
+            }
+        },
+        {
+            "name": "Sunset",
+            "description": "Warm sunset colors",
+            "colors": {
+                "PST": "#ff7b00",
+                "MST": "#ff5400",
+                "CST": "#ff2d00",
+                "EST": "#ff0000",
+                "AKST": "#cc6200",
+                "HST": "#994a00"
+            }
+        }
+    ]
+} 

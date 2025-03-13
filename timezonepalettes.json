@@ -47,6 +47,18 @@
                 "AKST": "#cc6200",
                 "HST": "#994a00"
             }
-        }
+        },
+         {
+            "name": "Asana",
+            "description": "Asana",
+            "colors": {
+                "PST": "#3be8b0",
+                "MST": "#1aafd0",
+                "CST": "#6a67ce",
+                "EST": "#ffb900",
+                "AKST": "#fc636b",
+                "HST": "#db3552"
+            }
+        },
     ]
 } 
